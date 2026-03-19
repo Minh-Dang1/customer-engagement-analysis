@@ -1,5 +1,9 @@
 # Customer Engagement Analysis (2021–2022)
 
+## 📊 Final Report Preview
+<img width="1504" height="336" alt="image" src="https://github.com/user-attachments/assets/7e83b8e4-29ef-4026-96c4-a8fd9bf1a348" />
+
+
 ## 📌 Project Overview
 
 This project analyzes customer engagement on an online learning platform before and after the introduction of new features such as XP systems, streaks, and leaderboards.
